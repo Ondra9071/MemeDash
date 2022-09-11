@@ -13,4 +13,5 @@
 <img src="https://i.imgur.com/9ToBSsV.png" style="witdth: 70%"><br>
 <img src="https://i.imgur.com/CMyGjn3.jpg" style="width: 70%">
 <hr>
+
 # How to uninstall the mod?
