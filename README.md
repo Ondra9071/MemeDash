@@ -4,4 +4,4 @@
 <hr>
 
 # How to download the mod?
-## 1. 
+## 1. Click on the three dots and select <u>"Download ZIP"</u>
