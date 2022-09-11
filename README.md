@@ -4,7 +4,7 @@
 <hr>
 
 # How to download the mod?
-## 1. Click on the three dots and select "**DOWNLOAD ZIP**"
+## 1. Click on **"Code"** and select "**DOWNLOAD ZIP**"
 
 <img src="https://i.imgur.com/KMvlh5W.png" style="width: 70%">
 
