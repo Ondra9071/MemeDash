@@ -15,3 +15,8 @@
 <hr>
 
 # How to uninstall the mod?
+### To remove the mod, just reinstall the game and log back into your account. 
+<hr>
+
+# Support this project
+### You can support this project via <a href="https://github.com/sponsors/Ondra9071" target="_blank">Github Sponsor</a>, <a href="https://www.buymeacoffee.com/ondra907" target="_blank">Buymeacoffee</a> or <a href="https://www.paypal.me/ondra907" target="_blank">PayPal</a>
