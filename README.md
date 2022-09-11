@@ -3,6 +3,9 @@
 ### The best and only memes mod for Geometry Dash!
 <hr>
 
+# Preview of the mod
+<img src="https://i.imgur.com/zInM1Xz.jpg" style="width: 70%">
+
 # How to download the mod?
 ## 1. Click on **"Code"** and select "**DOWNLOAD ZIP**"
 
