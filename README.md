@@ -2,5 +2,4 @@
 # MemeDash (v1.0)
 ### The best and only memes mod for Geometry Dash!
 <br>
-
-# How to install the mod?
+# How to download the mod?
